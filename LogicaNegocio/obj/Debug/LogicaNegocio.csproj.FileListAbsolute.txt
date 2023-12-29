@@ -1,0 +1,11 @@
+C:\Users\JOSUE CORDOVA\source\repos\Niik0106\ProyectoGameCenterv2\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\JOSUE CORDOVA\source\repos\Niik0106\ProyectoGameCenterv2\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\JOSUE CORDOVA\source\repos\Niik0106\ProyectoGameCenterv2\LogicaNegocio\bin\Debug\AccesoDatos.dll
+C:\Users\JOSUE CORDOVA\source\repos\Niik0106\ProyectoGameCenterv2\LogicaNegocio\bin\Debug\Entidades.dll
+C:\Users\JOSUE CORDOVA\source\repos\Niik0106\ProyectoGameCenterv2\LogicaNegocio\bin\Debug\AccesoDatos.pdb
+C:\Users\JOSUE CORDOVA\source\repos\Niik0106\ProyectoGameCenterv2\LogicaNegocio\bin\Debug\Entidades.pdb
+C:\Users\JOSUE CORDOVA\source\repos\Niik0106\ProyectoGameCenterv2\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\JOSUE CORDOVA\source\repos\Niik0106\ProyectoGameCenterv2\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\JOSUE CORDOVA\source\repos\Niik0106\ProyectoGameCenterv2\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\JOSUE CORDOVA\source\repos\Niik0106\ProyectoGameCenterv2\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\JOSUE CORDOVA\source\repos\Niik0106\ProyectoGameCenterv2\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
