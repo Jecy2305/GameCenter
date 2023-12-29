@@ -1,4 +1,5 @@
-![image](https://github.com/Jecy2305/GameCenter/assets/114971923/a834288a-e4d1-4e90-86f8-35ea297f2f26)
+![image](https://github.com/Jecy2305/GameCenter/assets/114971923/c0da5dee-d8df-48c2-8e84-451d46af482c)
+
 
 Software creado para la empresa [GameCenter](https://gamecenterperu.com/) que permite: Registro de datos de ventas que centralice y simplifique el acceso a la información de comercialización de productos, además de mejorar la gestión de la información de ventas, aumentando la visibilidad del embudo de ventas y garantizando la integridad y confidencialidad de los datos.
 
